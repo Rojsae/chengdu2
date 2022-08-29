@@ -1,13 +1,20 @@
 {
+
 "app_id": "wxf079351aff089958",
+
 "app_secret": "07d2568530237fe81a19103347cc3bcf",
+
 "template_id": "Iwd8gt_OcMyPZ35s-Cc5pcGPmXrbRL8v702Lp9Y6Ur0",
+
+ 
+
 # 和风天气apikey
 "weather_key": "1cec73554aea4b4ebc15ca395f5fb90d",
 # 所在地区
 "region": "成都市",
 # 生日
-"birthday1": {"name": "小池", "birthday": "2003-10-06"},
+"birthday1": {"name": "小静同学", "birthday": "2005-05-14"},
+
 "birthday2": {"name": "小池", "birthday": "2003-10-06"},
 "love_date": "2022-01-01",
 "note_ch": "",
